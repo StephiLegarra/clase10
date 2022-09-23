@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @StephiLegarra
+- 👀 I’m interested in becoming a suceessful developer
+- 🛠️ I’m currently working in an accounting firm. I'm accountant
+- 🌱 I’m currently learning in CODERHOUSE about web developer. In the future i will continue learning about javascript and backend programming
+- 📫 How to reach me stephanielegarra@gmail.com
